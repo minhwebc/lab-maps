@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map Lab</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyCIA_apIUoJEqg-pTJtdtxVp_24rCG90d0</string>
+</resources>
